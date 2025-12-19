@@ -31,7 +31,9 @@ All API endpoints were tested using Postman, including:
 - Shopping Cart (`/cart`)
 
 ## Interesting Code
-The ShoppingCartController demonstrates how authenticated users can safely manage cart items using JWT and role-based access control.
+Check out my notes on the ShoppingCartController! Authenticated users can safely manage cart items using JWT and role-based access control.
+
+![img_7.png](img_7.png)
 
 ## Screenshots
 
